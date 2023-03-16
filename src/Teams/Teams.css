@@ -1,0 +1,19 @@
+.teams-main-container {
+    margin: 100px;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .teams-main-container {
+      flex-wrap: wrap;
+    }
+  }
+  
+  .teams-main-container > * {
+    flex: 1;
+    max-width: 25%;
+  }
+  

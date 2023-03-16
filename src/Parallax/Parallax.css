@@ -1,0 +1,66 @@
+.parallax-container {
+    background-image: url(C:\Users\elotf\Desktop\react\kasuka\public\img\buliding.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 500px; */
+    overflow: hidden;
+    position: relative;
+    width: 1519.2px;
+    height: 278.8px;
+  }
+  
+  .parallax-container:before {
+    background: rgba(0, 0, 0, 0.5);
+    content: '';
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  .parallax-content {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .parallax-content h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .parallax-content p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .parallax-content button {
+    /* background-image: url(C:\Users\elotf\Desktop\react\kasuka\public\img\buliding.jpg);  */
+    background-size: cover;
+    border: 2px solid white;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 15px 30px;
+    transition: all 0.3s ease-in-out;
+    opacity: 1;
+    background-color: transparent;
+    border-radius: 3px;
+  }
+  
+  .parallax-content button:hover {
+    background: #ffbb38;
+    color: #343a40;
+    cursor: pointer;
+  }
+  
+

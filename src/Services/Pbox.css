@@ -1,0 +1,38 @@
+.product-box {
+    
+    padding: 20px;
+    width: 415.99px;
+    height: 337.4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #ebebeb;
+    
+    transition: all ease-in-out 0.3s;
+    background: #fff;
+  }
+  
+  
+  .product-box img {
+    /* width: 100%; */
+  }
+  
+  .product-box h2 {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  .product-box p {
+    font-size: 16px;
+    font-style: unset;
+    margin: 10px 0;
+    
+  }
+  
+
+.p-box-c{
+    width: 415.99px;
+    height: 337.4px;
+}

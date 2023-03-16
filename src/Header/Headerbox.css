@@ -1,0 +1,36 @@
+.icon-box{
+    padding: 30px 20px;
+    transition: ease-in-out 0.3s;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    height: 100%;
+    text-align: center;
+    width: 195.99px;
+    height: 138.4px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    color: #fff;
+}
+
+.container-headerbox{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    border-radius: 3px;
+}
+
+
+.container-headerbox:hover {
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.2);
+    cursor: pointer;
+  }
+
+
+  .container-headerbox:hover {
+    border: 2px solid #ffbb38;
+  }
+  
+  .container-headerbox:hover h3 {
+    color: #ffbb38;
+  }
+  
+  

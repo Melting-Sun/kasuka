@@ -1,0 +1,16 @@
+.teams-img {
+    max-width: max-content;
+    height: 314.8px;
+}
+
+.teams-container {
+    
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+    width: 306px;
+    height: 402px;
+}
+
+.image-footer-container {
+    margin: 10px;
+}

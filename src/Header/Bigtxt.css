@@ -1,0 +1,26 @@
+.container{
+    
+    text-align: center;
+    
+    
+}
+
+.h1{
+    margin: 0;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 64px;
+    color: #fff;
+    font-family: "irsans", irsans, sans-serif;
+}
+
+.h2{
+    color: rgba(255, 255, 255, 0.9);
+    margin: 10px 0 0 0;
+    font-size: 24px;
+}
+
+.kasuka{
+    color: rgb(255, 196, 82);
+    
+}

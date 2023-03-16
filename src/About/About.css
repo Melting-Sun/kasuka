@@ -1,0 +1,33 @@
+.about-container{
+    display: flex;
+    justify-content: center;
+    margin: 70px 100px 70px 100px;
+    gap: 30px;
+}
+
+.about-image{
+    width: 636px;
+    height: 477px;
+}
+
+.about-p{
+    width: 636px;
+    height: 384px;
+}
+
+.about-li{
+    display: flex;
+}
+
+.about-li-image{
+    width: 32px;
+    height: 32px;
+}
+
+.about-li-p{
+    margin: 0;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+

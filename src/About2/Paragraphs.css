@@ -1,0 +1,28 @@
+.pr-container{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 30px;
+}
+
+.pr-container img{
+    width: 32px;
+    height: 32px;
+}
+
+.pr-container .a-p-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .pr-container .a-p-container h4 {
+    font-size: 20px; 
+    margin: 0; 
+  }
+  
+  .pr-container .a-p-container p {
+    margin: 0;
+  }
+
+
+

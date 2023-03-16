@@ -1,0 +1,27 @@
+.hl{
+    width: 150px;
+    height: 10px;
+}
+
+.s-container{
+    margin: 100px;
+}
+
+
+.services-images-container1{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    
+}
+
+.services-images-container2{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.f-i-c{
+    margin: 0px;
+}

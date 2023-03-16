@@ -1,0 +1,17 @@
+.About3-container{
+    margin: 100px;
+    display: flex;
+    gap: 50px;
+}
+
+
+
+.about3-img{
+    width: 550px;
+    height: 468px;
+}
+
+
+.a-i-c-1000{
+    display: flex;
+}
