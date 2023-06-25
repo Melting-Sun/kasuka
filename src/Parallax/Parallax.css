@@ -1,5 +1,5 @@
 .parallax-container {
-    background-image: url(C:\Users\elotf\Desktop\react\kasuka\public\img\buliding.jpg);
+    background-image: url('https://hivalearn.ir/templates/kasuka/assets/img/cta-bg.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;

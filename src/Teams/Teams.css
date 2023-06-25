@@ -1,5 +1,5 @@
 .teams-main-container {
-    margin: 100px;
+    margin: 0 100px 0 100px;
     display: flex;
     flex-wrap: nowrap;
     gap: 20px;
@@ -16,4 +16,10 @@
     flex: 1;
     max-width: 25%;
   }
+  
+
+  .teams-header-wrapper{  
+    margin: 40px 100px 40px 100px;
+  }
+
   

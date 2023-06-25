@@ -1,0 +1,12 @@
+.dialog-container{
+    margin-top: 50px;
+}
+
+.dialog-button{
+    background-color: orange;
+    width: 70px;
+    height: 40px;
+    margin-left: 7px;
+    margin-top: 10px;
+    border-radius: 15%;
+}

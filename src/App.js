@@ -11,8 +11,8 @@ import Pics from './Products/Pics';
 import About3 from './About3/About3';
 import Saulgoodman from './Saulgoodman/Saulgoodman';
 import Teams from './Teams/Teams';
-
-
+import Contact from './Contact/Contact';
+import Footer from './Footer/Footer';
 
 
 function App() {
@@ -29,7 +29,9 @@ function App() {
       <About3/>
       <Saulgoodman/>
       <Teams/>
-
+      <Contact/>
+      <Footer/>
+      
     </div>
   );
 }

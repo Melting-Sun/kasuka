@@ -1,5 +1,5 @@
 .saul-container {
-    background-image: url("C:\Users\elotf\Desktop\react\kasuka\public\img\1802071.jpg");
+    background-image: url("https://hivalearn.ir/templates/kasuka/assets/img/testimonials-bg.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -70,3 +70,6 @@
     border: none;
 }
 
+.s-paragraph{
+    width: 50%;
+}

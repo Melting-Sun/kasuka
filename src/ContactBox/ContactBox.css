@@ -1,0 +1,19 @@
+.ContactBox-container{
+    display: flex;
+    gap: 10px;
+    margin: 50px 0 50px 0;
+}
+
+.Contact-box-icon{
+    background-color: orange;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 15%;
+
+}
+
+.inner-icon{
+    text-align: center;
+    padding: 10px;
+}
